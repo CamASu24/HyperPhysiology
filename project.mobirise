@@ -48,7 +48,7 @@
     ],
     "imageResize": true,
     "favicon": false,
-    "mbrsiteDomain": "wj7iuhsmd2",
+    "mbrsiteDomain": "h5ifkckqwv",
     "usedWebp": false,
     "robotsSwitcher": false,
     "sitemapSwitcher": false,
@@ -56,6 +56,7 @@
     "siteUrl": false,
     "cookiesAlert": false,
     "gdpr": false,
+    "publishEditFolder": true,
     "uniqCompNum": 14,
     "versionPublish": "6.1.12"
   },
