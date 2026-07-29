@@ -47,8 +47,8 @@
       }
     ],
     "imageResize": true,
-    "favicon": false,
-    "mbrsiteDomain": "h5ifkckqwv",
+    "favicon": "@PROJECT_PATH@/assets/images/logo20pia202-128x128_1.png",
+    "mbrsiteDomain": "rasctgpxfe",
     "usedWebp": false,
     "robotsSwitcher": false,
     "sitemapSwitcher": false,
